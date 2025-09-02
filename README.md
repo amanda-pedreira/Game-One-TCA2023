@@ -36,6 +36,5 @@ Cada produto possui uma **descrição detalhada** e pode ser adicionado ao carri
 
 ## ✨ Aprendizados
 Esse projeto foi uma ótima oportunidade para aplicar na prática tudo que aprendemos em sala de aula, desenvolvendo uma aplicação completa **full stack**.  
-Além do aspecto técnico, também foi um exercício de **trabalho em equipe, organização e criatividade**.  
 
 ---

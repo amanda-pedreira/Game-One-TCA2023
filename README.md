@@ -1,8 +1,9 @@
 # 🛒 E-commerce de Jogos – Game One
 
-Este projeto foi desenvolvido como projeto anual durante o **2º ano do curso Técnico em Informática da ETEC**, com a proposta de criar um **e-commerce completo** que simulasse todas as funcionalidades reais de uma loja virtual.  
+Este projeto foi desenvolvido como projeto anual durante o **2º ano do curso Técnico em Informática da ETEC**, com a proposta de criar um **e-commerce completo** que simulasse todas as funcionalidades reais de uma loja virtual.
 
-O objetivo não era apenas montar uma vitrine, mas sim um sistema completo.
+O objetivo não era apenas montar uma vitrine, mas sim um sistema de venda completo.
+
 ---
 
 ## 🎮 Sobre o projeto

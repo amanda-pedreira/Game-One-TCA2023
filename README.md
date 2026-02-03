@@ -1,27 +1,31 @@
-# 🛒 E-commerce de Jogos – Game One
+# 🎮 Game One — E-commerce de Jogos
 
-Este projeto foi desenvolvido como projeto anual durante o **2º ano do curso Técnico em Informática da ETEC**, com a proposta de criar um **e-commerce completo** que simulasse todas as funcionalidades reais de uma loja virtual.
+Projeto desenvolvido como trabalho anual no 2º ano do curso Técnico em Informática para Internet (ETEC), com a proposta de construir uma aplicação que simulasse um e-commerce completo, incluindo funcionalidades essenciais de uma loja virtual.
 
-O objetivo não era apenas montar uma vitrine, mas sim um sistema de venda completo.
-
----
-
-## 🎮 Sobre o projeto
-Decidimos focar no universo dos **games** e criamos uma loja especializada em jogos das marcas **Nintendo**, **PlayStation** e **Xbox**.
-Cada produto possui uma **descrição detalhada** e pode ser adicionado ao carrinho, passando por todo o fluxo de compra até a finalização.  
+O objetivo foi ir além de uma vitrine de produtos, desenvolvendo todo o fluxo de navegação, compra e gerenciamento.
 
 ---
 
-## 🚀 Funcionalidades
-- Cadastro e login de usuários  
-- Área administrativa (CRUD de produtos e clientes)  
+## Sobre o projeto
+
+O tema escolhido foi o universo dos games, resultando em uma loja especializada em títulos das marcas Nintendo, PlayStation e Xbox.
+
+Cada produto possui página individual com descrição detalhada, podendo ser adicionado ao carrinho e seguindo até a finalização da compra em um fluxo completo de usuário.
+
+---
+
+## Funcionalidades principais
+
+- Cadastro e autenticação de usuários  
+- Painel administrativo com operações CRUD (produtos e clientes)  
 - Carrinho de compras dinâmico  
 - Sistema de pagamento simulado  
-- Páginas de produtos com descrição detalhada 
+- Páginas de produtos com detalhes e organização  
 
 ---
 
-## 🚀 Tecnologias utilizadas
+
+##  Tecnologias utilizadas
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -34,7 +38,13 @@ Cada produto possui uma **descrição detalhada** e pode ser adicionado ao carri
 
 ---
 
-## ✨ Aprendizados
-Esse projeto foi uma ótima oportunidade para aplicar na prática tudo que aprendemos em sala de aula, desenvolvendo uma aplicação completa **full stack**.  
+
+## Aprendizados
+
+Esse projeto foi uma oportunidade importante para aplicar na prática conceitos de desenvolvimento full stack, unindo front-end, back-end e lógica de negócio em uma aplicação completa.
+
 
 ---
+
+
+⚠️ Este projeto utiliza PHP e MySQL, portanto não é possível executá-lo via GitHub Pages. Para testar, é necessário rodar em um ambiente local (XAMPP/WAMP).

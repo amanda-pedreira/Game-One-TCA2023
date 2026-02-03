@@ -9,7 +9,6 @@ O objetivo foi ir além de uma vitrine de produtos, desenvolvendo todo o fluxo d
 ## Sobre o projeto
 
 O tema escolhido foi o universo dos games, resultando em uma loja especializada em títulos das marcas Nintendo, PlayStation e Xbox.
-
 Cada produto possui página individual com descrição detalhada, podendo ser adicionado ao carrinho e seguindo até a finalização da compra em um fluxo completo de usuário.
 
 ---
@@ -47,4 +46,4 @@ Esse projeto foi uma oportunidade importante para aplicar na prática conceitos 
 ---
 
 
-⚠️ Este projeto utiliza PHP e MySQL, portanto não é possível executá-lo via GitHub Pages. Para testar, é necessário rodar em um ambiente local (XAMPP/WAMP).
+Este projeto utiliza PHP e MySQL, portanto não é possível executá-lo via GitHub Pages. Para testar, é necessário rodar em um ambiente local (XAMPP/WAMP).

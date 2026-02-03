@@ -35,13 +35,6 @@ Cada produto possui página individual com descrição detalhada, podendo ser ad
 
 
 
----
-
-
-## Aprendizados
-
-Esse projeto foi uma oportunidade importante para aplicar na prática conceitos de desenvolvimento full stack, unindo front-end, back-end e lógica de negócio em uma aplicação completa.
-
 
 ---
 
